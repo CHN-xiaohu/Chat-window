@@ -38,7 +38,7 @@ const PopupHeader = styled.div`
 
 const PopContent = styled.div`
     flex-grow: 1;
-    padding: 0 28px 0 28px;
+    padding: 0 10px 0 10px;
     overflow-y: scroll;
 `;
 
